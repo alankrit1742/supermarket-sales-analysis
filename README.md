@@ -13,4 +13,10 @@ Python, Pandas, Matplotlib, Tableau
 5. Monday record the lowest revenue.
 
 ## Dashboard link
+#Tableau dashboard
 https://public.tableau.com/views/Supermartsalesanalysisdashboard/SupermartSalesAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+#Power BI dashboard
+https://app.powerbi.com/links/qdJP17JeIy?ctid=71c520ef-ed4c-4bdf-9196-4172fb3451ce&pbi_source=linkShare
+
+
